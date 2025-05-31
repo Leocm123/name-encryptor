@@ -42,11 +42,6 @@ Contribuições são bem-vindas! Se você quiser sugerir melhorias ou corrigir b
 
 ---
 
-## Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
----
-
 ## Contato
 Para dúvidas ou sugestões, entre em contato:
 Leonardo Camilotti Moreno - leonardocamilottimoreno@gmail.com
